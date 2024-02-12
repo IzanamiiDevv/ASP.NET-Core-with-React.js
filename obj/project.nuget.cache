@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOcjjTloKFciCmpjK1T1xL0ovOuRVUlf1RBzQgbLLIctVvnOnodjFnhOSKG8tiwllrzJF5Lh8U18WCIOHLb9Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rosar\\OneDrive\\Documents\\ASP.NET Core with React.js\\ASP.NET Core with React.js.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rosar\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.11\\microsoft.aspnetcore.spaproxy.6.0.11.nupkg.sha512",
+    "C:\\Users\\rosar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\rosar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\rosar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\rosar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

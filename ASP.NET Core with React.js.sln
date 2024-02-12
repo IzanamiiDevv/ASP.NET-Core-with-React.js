@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET Core with React.js", "ASP.NET Core with React.js.csproj", "{07F71EC8-B635-4CB0-8339-12F69BDFFE61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F71EC8-B635-4CB0-8339-12F69BDFFE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F71EC8-B635-4CB0-8339-12F69BDFFE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F71EC8-B635-4CB0-8339-12F69BDFFE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F71EC8-B635-4CB0-8339-12F69BDFFE61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8681649B-4CBD-4ED9-BA7A-D55D9E49BC84}
+	EndGlobalSection
+EndGlobal
