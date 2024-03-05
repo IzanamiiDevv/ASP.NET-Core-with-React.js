@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:44480",
-"LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\rosar\\OneDrive\\Documents\\ASP.NET Core with React.js\\ClientApp\\",
-"MaxTimeoutInSeconds": "120"
-}
-}
